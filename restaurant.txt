@@ -1,0 +1,9 @@
+List of Reservations
+Date	Time	People	Table.No	Name	PhoneNumber	SpecialRequest
+=================================================================
+2024-01-24	5.30 PM	5	5AD	ALIA ZURINA	019-4573922	None
+2024-02-13	8.00 PM	2	2AS	AIIMAN SAHUDIN	011-33585231	Birthday Decoration
+2024-01-17	6.00 PM	9	8CS	MALIA 	017-2344929	School Reunion
+2024-01-31	1.00 PM	4	5AD	ARIF ZUKI	011-45822394	None
+2024-01-31	12PM	2	- Select Table No -	munirah	014756402	nine
+=================================================================
